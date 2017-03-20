@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	srand(time(0));
-	int size = 25;
+	int size = 3;
 	int low = 1;
 	int high = 9;
 	vector<vector<int>> grid;	
