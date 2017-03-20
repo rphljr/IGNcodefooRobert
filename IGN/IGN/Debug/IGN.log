@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+c:\users\rphlj\documents\visual studio 2015\projects\ign\ign\driver.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\rphlj\documents\visual studio 2015\projects\ign\ign\driver.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  IGN.vcxproj -> C:\Users\rphlj\Documents\Visual Studio 2015\Projects\IGN\Debug\IGN.exe
+  IGN.vcxproj -> C:\Users\rphlj\Documents\Visual Studio 2015\Projects\IGN\Debug\IGN.pdb (Full PDB)
